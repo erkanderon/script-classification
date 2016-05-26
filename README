@@ -1,0 +1,12 @@
+When you extract the package, you need to open the terminal
+
+
+cd ~/appliedProject
+
+and then
+
+python machine.py
+
+you will see the correctly classified instances according to the algorithms.
+
+if you want to see complete output of the algorithm you need to wait the algorithms end.
